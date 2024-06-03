@@ -1,0 +1,23 @@
+{
+  "item.angelring.angel_ring": "Кольцо ангела",
+  "item.angelring.diamond_ring": "Алмазное кольцо",
+  "item.angelring.angel_ring.not_enough_xp": "Чтобы летать, нужно иметь XP. Получите больше XP, чтобы снова летать.",
+  "item.angelring.angel_ring.tooltip": "Удерживайте §eShift§7 для получения дополнительной информации!",
+  "item.angelring.angel_ring.desc0": "Кольцо ангела со временем истощает XP игрока во время полета.",
+  "item.angelring.angel_ring.desc1": "Если XP игрока достигает менее 1 уровня,",
+  "item.angelring.angel_ring.desc2": "Магия исчезнет, и полеты станут невозможны.",
+  "item.angelring.angel_ring.classic.desc0": "Кольцо ангела переключается в классический режим. Дает творческий полет, когда находится в слоте Curios.",
+  "item.angelring.angel_ring.classic.desc1": "Чтобы переключиться в режим ребаланса, переключите разряд XP на более чем 0 очков в конфиге.",
+  "item.angelring.energetic_angel_ring": "Кольцо энергетического ангела",
+  "item.angelring.energetic_angel_ring.not_enough_fe": "Вам нужно больше FE, чтобы летать. Зарядите кольцо ангела, чтобы снова летать.",
+  "item.angelring.energetic_angel_ring.tooltip": "Удерживайте §eShift§7 для получения дополнительной информации!",
+  "item.angelring.energetic_angel_ring.desc0": "Кольцо ангела расходует накопленные FE с течением времени во время полета.",
+  "item.angelring.energetic_angel_ring.desc1": "Кольцо ангела в данный момент содержит %s FE / %s FE.",
+  "item.angelring.leadstone_angel_ring": "Кольцо ангела из свинцового камня",
+  "item.angelring.hardened_angel_ring": "Закаленное ангельское кольцо",
+  "item.angelring.reinforced_angel_ring": "Усиленное кольцо ангела",
+  "item.angelring.resonant_angel_ring": "Резонансное кольцо ангела",
+  "curios.identifier.angelring": "Кольцо ангела",
+  "itemGroup.angelring2": "Кольцо ангела 2",
+  "angelring.warning": "§cВаше кольцо ангела разрядилось!"
+}
